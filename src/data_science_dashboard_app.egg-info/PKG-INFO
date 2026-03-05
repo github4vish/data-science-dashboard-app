@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: data-science-dashboard-app
+Version: 1.0.1
+Summary: Reusable Data Science Dashboard CLI Generator
+Author-email: Your Name <viswanadh.mnv@gmail.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# data-science-dashboard-app

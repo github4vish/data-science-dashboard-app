@@ -9,6 +9,7 @@ def create_project(project_name):
         "models",
         "data",
         "tests",
+        "training",
         "static/js",
         "templates"
     ]
@@ -18,7 +19,8 @@ def create_project(project_name):
         "requirements.txt": "",
         "tests/APITest.http": "",
         "templates/index.html": "",
-        "static/js/dashboard.js": ""
+        "static/js/dashboard.js": "",
+        "training/train_model.js": ""
     }
 
     # Create base directory

@@ -14,7 +14,7 @@ def main():
     parser.add_argument(
         "--version",
         action="version",
-        version="dsdashboard 0.1.0"
+        version="dsdashboard 1.0.1"
     )
 
     subparsers = parser.add_subparsers(

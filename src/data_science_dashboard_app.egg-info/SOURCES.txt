@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/data_science_dashboard_app.egg-info/PKG-INFO
+src/data_science_dashboard_app.egg-info/SOURCES.txt
+src/data_science_dashboard_app.egg-info/dependency_links.txt
+src/data_science_dashboard_app.egg-info/entry_points.txt
+src/data_science_dashboard_app.egg-info/top_level.txt
+src/dsdashboard/cli.py
+src/dsdashboard/data_loader.py
+src/dsdashboard/scaffolder.py
+src/dsdashboard/trainer.py
